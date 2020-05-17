@@ -9,7 +9,7 @@ The main objective of this project is to find out how we can predict which indiv
 
 Steps taken;
 
-* Definition of the research question.
+* Definition of the research question and Hypothesis.
 
 * Loading of Dataset to Python Database.
 
@@ -23,10 +23,15 @@ Steps taken;
 
 
 Tools required for the project;
-Google Colab
 
-Python Basics(Pandas, Numpy, matplotlib.pyplot, Seaborn)
+* Google Colab
 
-Python Library
+* Python Basics(Pandas, Numpy, matplotlib.pyplot, Seaborn)
 
-Github
+* Python Library
+
+* Github
+
+### Link to Hypothesis Report
+
+[Hypothesis Report](https://drive.google.com/drive/folders/16ddM3B_rIqTg1tPi3zbI4eIqx1EkDmaG?usp=sharing)
