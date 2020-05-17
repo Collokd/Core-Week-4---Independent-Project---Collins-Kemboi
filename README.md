@@ -8,6 +8,7 @@
 The main objective of this project is to find out how we can predict which individuals are most likely to have or use a bank account.
 
 Steps taken;
+
 Definition of the research question.
 
 Loading of Dataset to Python Database.
