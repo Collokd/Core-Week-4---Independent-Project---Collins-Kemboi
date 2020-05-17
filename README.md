@@ -9,17 +9,17 @@ The main objective of this project is to find out how we can predict which indiv
 
 Steps taken;
 
-Definition of the research question.
+* Definition of the research question.
 
-Loading of Dataset to Python Database.
+* Loading of Dataset to Python Database.
 
-Validation.
+* Validation.
 
-Tidying the dataset.
+* Tidying the dataset.
 
-Exploratory Data Analysis: Univariate Analysis
+* Exploratory Data Analysis: Univariate Analysis
 
-Exploratory Data Analysis: Bivariate Analysis
+* Exploratory Data Analysis: Bivariate Analysis
 
 
 Tools required for the project;
