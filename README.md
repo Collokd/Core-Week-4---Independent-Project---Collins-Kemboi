@@ -5,7 +5,7 @@
 **Analysis by: Collins Kemboi**
 
 ### Objective of the Project
-The main objective of this project is to find out 
+The main objective of this project is to find out whether the average number of Bluecars taken are less or equal to 100 
 
 Steps taken;
 
