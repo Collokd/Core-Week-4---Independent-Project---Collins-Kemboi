@@ -1,6 +1,6 @@
 # Core-Week-4---Independent-Project---Collins-Kemboi
 
-*Exploratory Data Analysis by: Univariate Analysis and Bivariate Analysis*
+#Exploratory Data Analysis by: Univariate Analysis and Bivariate Analysis
 Analysis by: Collins Kemboi
 Objective of the Project
 The main objective of this project is to find out how we can predict which individuals are most likely to have or use a bank account.
